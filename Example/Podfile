@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'VVSPrivateAFNetworking_Example' do
+  pod 'VVSPrivateAFNetworking', :path => '../'
+
+  target 'VVSPrivateAFNetworking_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
