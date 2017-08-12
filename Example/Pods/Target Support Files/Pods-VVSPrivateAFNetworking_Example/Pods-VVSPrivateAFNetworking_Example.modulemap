@@ -1,0 +1,6 @@
+framework module Pods_VVSPrivateAFNetworking_Example {
+  umbrella header "Pods-VVSPrivateAFNetworking_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

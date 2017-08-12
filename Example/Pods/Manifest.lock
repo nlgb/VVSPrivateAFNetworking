@@ -1,0 +1,16 @@
+PODS:
+  - VVSPrivateAFNetworking (0.1.0)
+
+DEPENDENCIES:
+  - VVSPrivateAFNetworking (from `../`)
+
+EXTERNAL SOURCES:
+  VVSPrivateAFNetworking:
+    :path: ../
+
+SPEC CHECKSUMS:
+  VVSPrivateAFNetworking: 7466d392e517e5154924fca67ac8d016683f7772
+
+PODFILE CHECKSUM: 16894df24b316290ea623646697fb63dce91985c
+
+COCOAPODS: 1.3.1

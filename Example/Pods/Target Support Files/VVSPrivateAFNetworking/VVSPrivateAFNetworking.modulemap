@@ -1,0 +1,6 @@
+framework module VVSPrivateAFNetworking {
+  umbrella header "VVSPrivateAFNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
